@@ -2,13 +2,12 @@
 
 This is a simple and clean **Responsive Profile Card** built using **HTML** and **CSS**.  
 It displays a user’s profile picture, name, job title, and social media links with follow and message buttons.  
-The design is fully responsive and works well on different screen sizes.
 
 ---
 
 ## 🖼️ Preview
 
-![Profile Card Preview](https://your-image-link-here)  
+![Profile Card Preview](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/Responsive%20Profile%20Card/preview.png)  
 
 ---
 

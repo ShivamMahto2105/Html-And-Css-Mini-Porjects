@@ -10,7 +10,7 @@ The goal is to practice frontend design and improve HTML & CSS skills through mi
 
 **1. Responsive Profile Card**  
 A clean and responsive profile card built using HTML and CSS.  
-👉 [View Project](#)
+👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/Responsive%20Profile%20Card)
 
 
 ## 🛠️ Technologies Used
