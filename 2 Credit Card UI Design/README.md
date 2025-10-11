@@ -7,7 +7,7 @@ It visually represents a modern credit card with realistic details like the logo
 
 ## 🖼️ Preview
 
-![Credit Card UI Preview]()
+![Credit Card UI Preview](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/2%20Credit%20Card%20UI%20Design/preview.png)
 
 ---
 
