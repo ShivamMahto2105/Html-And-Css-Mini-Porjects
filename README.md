@@ -12,6 +12,10 @@ The goal is to practice frontend design and improve HTML & CSS skills through mi
 A clean and responsive profile card built using HTML and CSS.  
 👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/Responsive%20Profile%20Card)
 
+**2. Credit Card UI Design**
+A clean credit card UI design built using HTML and CSS.
+👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/2%20Credit%20Card%20UI%20Design)
+
 
 ## 🛠️ Technologies Used
 
