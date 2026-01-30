@@ -16,6 +16,10 @@ A clean and responsive profile card built using HTML and CSS.
 A credit card UI design built using HTML and CSS.  
 👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/2%20Credit%20Card%20UI%20Design)
 
+**3. Flipping Credit Card UI Design**  
+A Flipping credit card UI design built using HTML and CSS.  
+👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/3%20Flipping%20Card)
+
 
 
 ## 🛠️ Technologies Used
