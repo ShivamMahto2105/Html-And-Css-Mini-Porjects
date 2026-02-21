@@ -20,7 +20,7 @@ A credit card UI design built using HTML and CSS.
 A Flipping credit card UI design built using HTML and CSS.  
 👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/3%20Flipping%20Card)
 
-**3. Flipping Credit Card UI Design**  
+**4. Flipping Credit Card UI Design**  
 A Side Bar UI design built using HTML and CSS.  
 👉 [View Project](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/tree/main/4%20Slidebar)
 
