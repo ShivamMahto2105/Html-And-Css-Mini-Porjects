@@ -21,7 +21,7 @@ It includes input fields for email/phone and password with icons, along with log
 2. Open `index.html` in your browser.
 
 ## 📸 Preview
-![Login Form Preview](preview.png)
+![Login Form Preview](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/5%20Responsive%20Login%20Form/Preview.png)
 A centered login form with:
 - Email/Phone input
 - Password input
