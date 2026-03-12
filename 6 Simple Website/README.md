@@ -7,7 +7,7 @@ It contains a **fixed navigation bar, hero background image, overlay effect, and
 
 ## 🖼 Preview
 
-![Website Preview](preview.png)
+![Website Preview](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/6%20Simple%20Website/Preview.png)
 ---
 
 ## 🌄 Background Image
