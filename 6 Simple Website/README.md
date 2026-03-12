@@ -13,7 +13,7 @@ It contains a **fixed navigation bar, hero background image, overlay effect, and
 ## 🌄 Background Image
 
 This project uses a background image for the hero section.
-![Background Image](preview.png)
+![Background Image](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/6%20Simple%20Website/Book.jpg)
 
 
 ---
