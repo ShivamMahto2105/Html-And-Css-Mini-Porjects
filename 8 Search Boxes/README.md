@@ -28,7 +28,7 @@ A simple and stylish animated search box built using HTML and CSS. The search bo
 
 ## 📸 Preview
 Small → Click 🔍 → Expands ✨
-![Preview]()
+![Preview](https://github.com/ShivamMahto2105/Html-And-Css-Mini-Porjects/blob/main/8%20Search%20Boxes/Preview.png)
 
 ---
 
